@@ -21,7 +21,7 @@
 | bitwise exclusive OR | ^                                       |
 | bitwise inclusive OR | \|                                      |
 | logical AND          | &&                                      |
-| logical OR           | \|                                      |
+| logical OR           | \|\|                                    |
 | ternary              | ? :                                     |
 | assignment           | = += -= *= /= %= &= ^= \|= <<= >>= >>>= |
 ### JVM 작동 원리
